@@ -409,17 +409,17 @@ a {
 }
 
 #project1 {
-  background-image: url(Project1.png);
+  background-image: url("Project1.png");
 }
 #project2 {
-  background-image: url(Project2.png);
+  background-image: url("Project2.png");
   margin-left: 120px;
 }
 #project3 {
-  background-image: url(Project3.png);
+  background-image: url("Project3.png");
 }
 #project4 {
-  background-image: url(Project4.png);
+  background-image: url("Project4.png");
   margin-left: 120px;
 }
 
